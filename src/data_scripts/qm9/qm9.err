@@ -1,0 +1,745 @@
+[18:53:05] Explicit valence for atom # 1 N, 4, is greater than permitted
+[18:53:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:53:10] Explicit valence for atom # 8 N, 4, is greater than permitted
+[18:53:10] Explicit valence for atom # 3 N, 4, is greater than permitted
+[18:53:11] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[18:53:34] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[18:53:55] Explicit valence for atom # 4 N, 4, is greater than permitted
+[18:54:16] Explicit valence for atom # 1 N, 4, is greater than permitted
+[18:54:23] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[18:54:30] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[18:54:31] Explicit valence for atom # 5 N, 4, is greater than permitted
+[18:54:54] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[18:55:07] Explicit valence for atom # 7 N, 4, is greater than permitted
+[18:55:19] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[18:55:40] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[18:55:50] Explicit valence for atom # 3 N, 4, is greater than permitted
+[18:55:54] Can't kekulize mol.  Unkekulized atoms: 2 7 8
+[18:55:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:56:01] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[18:56:09] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 5
+[18:56:46] Explicit valence for atom # 1 N, 4, is greater than permitted
+[18:56:48] Explicit valence for atom # 4 N, 4, is greater than permitted
+[18:56:49] Explicit valence for atom # 2 N, 4, is greater than permitted
+[18:56:51] Explicit valence for atom # 3 N, 4, is greater than permitted
+[18:57:03] Explicit valence for atom # 6 N, 4, is greater than permitted
+[18:57:05] Explicit valence for atom # 4 N, 4, is greater than permitted
+[18:57:06] Explicit valence for atom # 7 N, 4, is greater than permitted
+[18:57:16] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[18:57:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:57:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:57:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:57:33] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[18:57:39] Explicit valence for atom # 8 N, 4, is greater than permitted
+[18:57:46] Explicit valence for atom # 1 N, 4, is greater than permitted
+[18:57:48] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[18:57:51] Explicit valence for atom # 5 N, 4, is greater than permitted
+[18:57:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:58:05] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[18:58:20] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[18:58:23] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[18:58:28] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 5
+[18:58:31] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[18:58:46] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 8
+[18:58:57] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[18:59:01] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[18:59:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:59:19] Explicit valence for atom # 4 N, 4, is greater than permitted
+[18:59:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:59:25] Explicit valence for atom # 2 N, 4, is greater than permitted
+[18:59:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:59:26] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[18:59:27] Explicit valence for atom # 8 N, 4, is greater than permitted
+[18:59:32] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[18:59:35] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[18:59:35] Explicit valence for atom # 2 N, 4, is greater than permitted
+[18:59:37] Explicit valence for atom # 8 N, 4, is greater than permitted
+[18:59:38] Explicit valence for atom # 0 N, 4, is greater than permitted
+[18:59:40] Explicit valence for atom # 7 N, 4, is greater than permitted
+[18:59:51] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:00:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:00:01] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:00:02] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:00:15] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:00:50] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:01:05] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:01:06] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:01:10] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:01:30] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:01:33] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:01:44] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:01:49] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:01:52] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:01:57] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:02:09] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:02:10] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:02:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:02:18] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:02:20] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 8
+[19:02:21] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:02:25] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:02:32] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:02:35] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:02:41] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:02:42] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:02:48] Can't kekulize mol.  Unkekulized atoms: 1 2 5 7 8
+[19:02:50] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:02:53] Can't kekulize mol.  Unkekulized atoms: 2 4 6 7 8
+[19:02:55] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:03:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:03:14] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:03:16] Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 7
+[19:03:36] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:03:37] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:03:52] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 7
+[19:03:53] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:04:10] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:04:15] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:04:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:04:28] Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 7
+[19:04:29] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 8
+[19:04:29] Can't kekulize mol.  Unkekulized atoms: 2 3 6 7 8
+[19:04:33] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:04:47] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:04:49] Can't kekulize mol.  Unkekulized atoms: 2 4 6 7 8
+[19:05:06] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:05:07] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:05:10] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:05:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:05:16] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:05:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:05:45] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:05:59] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:06:18] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 7
+[19:06:18] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:06:30] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:07:09] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:07:18] Can't kekulize mol.  Unkekulized atoms: 1 2 5 7 8
+[19:07:18] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:07:18] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:07:35] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:07:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:07:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:07:39] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:07:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:07:46] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:07:59] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:08:04] Can't kekulize mol.  Unkekulized atoms: 1 2 7
+[19:08:17] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:08:19] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:08:38] Can't kekulize mol.  Unkekulized atoms: 3 4 5 7 8
+[19:08:42] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:08:54] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:08:58] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:08:58] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:09:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:09:07] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:09:15] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:09:31] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:09:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:09:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:09:46] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:09:50] Can't kekulize mol.  Unkekulized atoms: 2 4 5
+[19:10:12] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:10:16] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:10:26] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:10:30] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 5
+[19:10:33] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:10:33] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:10:39] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:10:50] Can't kekulize mol.  Unkekulized atoms: 1 2 5 6 7
+[19:10:56] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:11:07] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:11:08] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:11:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:11:10] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:11:14] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:11:14] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:11:16] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:11:39] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:11:40] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:11:40] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:11:43] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:11:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:12:06] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:12:09] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:12:19] Can't kekulize mol.  Unkekulized atoms: 1 2 4 7 8
+[19:12:41] Can't kekulize mol.  Unkekulized atoms: 1 2 4 7 8
+[19:12:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:12:52] Can't kekulize mol.  Unkekulized atoms: 1 2 7
+[19:12:55] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:12:57] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:12:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:12:59] Can't kekulize mol.  Unkekulized atoms: 1 2 5 6 7
+[19:13:11] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:13:14] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:13:24] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:13:25] Can't kekulize mol.  Unkekulized atoms: 2 3 4
+[19:13:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:13:27] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:13:28] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:13:33] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[19:13:43] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:13:59] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:14:02] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:14:08] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:14:16] Can't kekulize mol.  Unkekulized atoms: 1 2 5 6 7
+[19:14:22] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:14:23] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:14:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:14:37] Can't kekulize mol.  Unkekulized atoms: 4 5 6
+[19:14:39] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:14:45] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:14:48] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:14:58] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 5
+[19:15:04] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:15:05] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:15:36] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:15:36] Can't kekulize mol.  Unkekulized atoms: 1 6 7
+[19:15:39] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:15:44] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:15:50] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:16:02] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:16:06] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:16:20] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:16:25] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:16:32] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:16:37] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:16:39] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:16:45] Can't kekulize mol.  Unkekulized atoms: 3 4 5 7 8
+[19:17:00] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:17:00] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:17:16] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:17:17] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:17:21] Can't kekulize mol.  Unkekulized atoms: 1 2 3 7 8
+[19:17:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:17:30] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:17:32] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:17:40] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:17:46] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:17:55] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:18:02] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:18:10] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:18:23] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:18:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:18:29] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:18:51] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:18:54] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:18:56] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:19:01] Can't kekulize mol.  Unkekulized atoms: 4 6 7
+[19:19:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:19:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:19:16] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 8
+[19:19:17] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:19:23] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:19:38] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 7
+[19:19:40] Can't kekulize mol.  Unkekulized atoms: 1 2 5 7 8
+[19:19:57] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:20:04] Can't kekulize mol.  Unkekulized atoms: 1 6 7
+[19:20:15] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:20:17] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:20:25] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:20:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:20:27] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:20:28] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:20:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:20:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:20:38] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:20:41] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:20:42] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:20:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:20:50] Can't kekulize mol.  Unkekulized atoms: 1 6 7
+[19:20:54] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:21:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:21:30] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:21:35] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:21:42] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:22:01] Can't kekulize mol.  Unkekulized atoms: 1 2 3 7 8
+[19:22:02] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:22:10] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:22:15] Can't kekulize mol.  Unkekulized atoms: 1 3 4 7 8
+[19:22:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:22:26] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:22:33] Can't kekulize mol.  Unkekulized atoms: 5 6 7
+[19:22:38] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:22:40] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:22:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:22:40] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:22:45] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:22:48] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:23:07] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:23:09] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:23:11] Can't kekulize mol.  Unkekulized atoms: 3 4 5 7 8
+[19:23:24] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:23:29] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:23:29] Can't kekulize mol.  Unkekulized atoms: 2 3 4
+[19:23:35] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:23:35] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:23:35] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:23:39] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:23:51] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:23:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:23:54] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:23:57] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:23:58] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:23:58] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:23:59] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:24:04] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:24:13] Can't kekulize mol.  Unkekulized atoms: 3 5 6 7 8
+[19:24:15] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:24:18] Can't kekulize mol.  Unkekulized atoms: 1 2 5 6 7
+[19:24:18] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:24:24] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:24:34] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:24:39] Can't kekulize mol.  Unkekulized atoms: 2 4 6 7 8
+[19:24:44] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:24:50] Can't kekulize mol.  Unkekulized atoms: 1 2 3
+[19:24:52] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:25:04] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:25:07] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:25:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:25:18] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:25:21] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:25:36] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:25:39] Can't kekulize mol.  Unkekulized atoms: 2 3 4
+[19:25:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:25:48] Can't kekulize mol.  Unkekulized atoms: 1 3 5 6 7
+[19:25:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:26:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:26:02] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:26:06] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:26:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:26:15] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:26:17] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:26:19] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:26:22] Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 7
+[19:26:26] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:26:31] Can't kekulize mol.  Unkekulized atoms: 1 2 4 7 8
+[19:26:34] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:26:52] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:27:05] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:27:06] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:27:07] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:27:16] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:27:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:27:27] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:27:43] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:27:45] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:27:48] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 8
+[19:27:52] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:27:56] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:27:57] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:28:08] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:28:13] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:28:37] Can't kekulize mol.  Unkekulized atoms: 1 6 7
+[19:28:42] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:28:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:28:53] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:28:53] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:28:54] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 8
+[19:28:56] Can't kekulize mol.  Unkekulized atoms: 1 2 3 7 8
+[19:29:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:29:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:29:19] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:29:24] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:29:27] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:29:40] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:29:42] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:29:54] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:29:58] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:30:17] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:30:19] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 7
+[19:30:24] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:30:46] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:30:54] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:30:59] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:31:08] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:31:18] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:31:25] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:31:28] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:31:31] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:31:43] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:31:44] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:32:09] Can't kekulize mol.  Unkekulized atoms: 3 5 6 7 8
+[19:32:10] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:32:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:32:15] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:32:31] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:32:40] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:32:48] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[19:33:01] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:33:01] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:33:20] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:33:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:33:22] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:33:24] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:33:29] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:33:37] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:33:46] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:34:14] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:34:21] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:34:22] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:34:40] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:34:45] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:34:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:34:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:35:00] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:35:09] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:35:16] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:35:18] Can't kekulize mol.  Unkekulized atoms: 1 6 7
+[19:35:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:35:20] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 8
+[19:35:43] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:35:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:35:57] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:35:58] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:35:59] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:36:03] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:36:06] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:36:08] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:36:08] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:36:32] Can't kekulize mol.  Unkekulized atoms: 1 2 7
+[19:36:34] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:36:36] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:36:37] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:37:03] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:37:09] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:37:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:37:18] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:37:18] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:37:22] Can't kekulize mol.  Unkekulized atoms: 2 7 8
+[19:37:23] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:37:24] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:37:32] Can't kekulize mol.  Unkekulized atoms: 2 7 8
+[19:37:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:37:48] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:38:01] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:38:02] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[19:38:05] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:38:08] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:38:09] Can't kekulize mol.  Unkekulized atoms: 1 5 6
+[19:38:09] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:38:19] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:38:25] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[19:38:32] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:38:33] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:38:44] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:38:48] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:38:53] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6
+[19:38:55] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:38:56] Can't kekulize mol.  Unkekulized atoms: 1 2 4 7 8
+[19:39:04] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:39:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:39:48] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:39:49] Can't kekulize mol.  Unkekulized atoms: 1 2 4 7 8
+[19:39:58] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:40:09] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:40:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:40:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:40:30] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:40:32] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:40:33] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:40:39] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:40:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:40:59] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:41:21] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4
+[19:41:26] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:41:33] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:41:38] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:41:44] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:42:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:43:00] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:43:01] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:43:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:43:21] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:43:22] Can't kekulize mol.  Unkekulized atoms: 1 2 5 6 7
+[19:43:25] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:43:37] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:43:40] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:43:41] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 7
+[19:43:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:43:45] Can't kekulize mol.  Unkekulized atoms: 3 4 5 7 8
+[19:43:51] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:43:57] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:43:59] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:44:08] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:44:08] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:44:14] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:44:35] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:44:38] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:44:45] Can't kekulize mol.  Unkekulized atoms: 1 2 3 7 8
+[19:44:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:44:58] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:45:26] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:45:27] Can't kekulize mol.  Unkekulized atoms: 2 4 5 7 8
+[19:45:35] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:45:40] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:45:41] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[19:45:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:45:54] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:46:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:46:12] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:46:16] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:46:26] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:46:28] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:46:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:46:36] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:46:41] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[19:47:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:47:03] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:47:07] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[19:47:09] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:47:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:47:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:47:37] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:47:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:47:47] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:47:50] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:47:53] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:48:15] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:48:17] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:48:31] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:48:36] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:48:38] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:48:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:48:55] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:48:57] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:49:02] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:49:03] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:49:07] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 5
+[19:49:16] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:49:27] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:49:38] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 8
+[19:49:46] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:49:46] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:49:57] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:50:06] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:50:21] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:50:29] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:50:34] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:50:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:50:53] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:50:54] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:51:05] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:51:14] Can't kekulize mol.  Unkekulized atoms: 1 2 3 7 8
+[19:51:18] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:51:19] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:51:19] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 8
+[19:51:23] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:51:30] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[19:51:34] Can't kekulize mol.  Unkekulized atoms: 2 4 6 7 8
+[19:51:40] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:51:40] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:51:43] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:51:45] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:51:45] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:52:18] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:52:22] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:52:25] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:52:27] Explicit valence for atom # 6 N, 4, is greater than permitted
+[19:52:30] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:52:32] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:52:35] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:52:55] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:53:07] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:53:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:53:14] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:53:29] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:53:51] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:53:51] Can't kekulize mol.  Unkekulized atoms: 1 3 6 7 8
+[19:53:52] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:54:07] Can't kekulize mol.  Unkekulized atoms: 5 6 7
+[19:54:18] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:54:38] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:54:52] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:54:52] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:55:05] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:55:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:55:31] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:55:38] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:55:41] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:55:46] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:56:05] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:56:07] Explicit valence for atom # 4 N, 4, is greater than permitted
+[19:56:08] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[19:56:20] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[19:56:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:56:28] Can't kekulize mol.  Unkekulized atoms: 3 4 5 7 8
+[19:56:28] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 7
+[19:56:28] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:56:32] Can't kekulize mol.  Unkekulized atoms: 3 5 6 7 8
+[19:56:38] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 7
+[19:56:50] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:56:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:56:55] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[19:56:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:56:59] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:57:09] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:57:13] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[19:57:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:57:24] Explicit valence for atom # 8 N, 4, is greater than permitted
+[19:57:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:57:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:57:41] Can't kekulize mol.  Unkekulized atoms: 1 2 7
+[19:57:42] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 5
+[19:57:49] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 8
+[19:57:49] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:57:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[19:57:58] Can't kekulize mol.  Unkekulized atoms: 1 2 6
+[19:57:58] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:58:04] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:58:07] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:58:29] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:58:29] Explicit valence for atom # 2 N, 4, is greater than permitted
+[19:58:41] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[19:58:49] Explicit valence for atom # 3 N, 4, is greater than permitted
+[19:58:52] Can't kekulize mol.  Unkekulized atoms: 1 2 4 5 6
+[19:58:57] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[19:59:16] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:59:18] Can't kekulize mol.  Unkekulized atoms: 2 3 5 7 8
+[19:59:23] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[19:59:27] Explicit valence for atom # 1 N, 4, is greater than permitted
+[19:59:38] Can't kekulize mol.  Unkekulized atoms: 2 4 5 7 8
+[19:59:41] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[19:59:50] Explicit valence for atom # 5 N, 4, is greater than permitted
+[19:59:51] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:00:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:00:13] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[20:00:15] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[20:00:21] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:00:36] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 8
+[20:00:40] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:00:42] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[20:00:53] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[20:00:57] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:01:09] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:01:09] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[20:01:25] Explicit valence for atom # 8 N, 4, is greater than permitted
+[20:01:26] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:01:33] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:01:37] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:01:38] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:01:41] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:01:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:01:53] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[20:01:53] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[20:02:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:02:16] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:02:18] Can't kekulize mol.  Unkekulized atoms: 2 7 8
+[20:02:25] Can't kekulize mol.  Unkekulized atoms: 2 5 8
+[20:02:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:02:34] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:02:40] Can't kekulize mol.  Unkekulized atoms: 3 4 6 7 8
+[20:02:53] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:02:58] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:03:06] Can't kekulize mol.  Unkekulized atoms: 2 3 4
+[20:03:10] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:03:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:03:30] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[20:03:34] Explicit valence for atom # 8 N, 4, is greater than permitted
+[20:03:37] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:04:00] Explicit valence for atom # 5 N, 4, is greater than permitted
+[20:04:05] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 7
+[20:04:05] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[20:04:07] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:04:12] Explicit valence for atom # 4 N, 4, is greater than permitted
+[20:04:14] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:04:20] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:04:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:04:24] Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 7
+[20:04:29] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:04:31] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[20:04:33] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:04:36] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:04:37] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[20:04:52] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[20:05:00] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:05:07] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:05:17] Can't kekulize mol.  Unkekulized atoms: 3 4 6 7 8
+[20:05:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:05:35] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 8
+[20:05:38] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:05:52] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:06:01] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:06:10] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:06:14] Explicit valence for atom # 5 N, 4, is greater than permitted
+[20:06:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:06:41] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[20:06:56] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[20:07:10] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:07:11] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:07:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:07:15] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:07:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:07:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:07:33] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:07:34] Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 7
+[20:07:41] Explicit valence for atom # 4 N, 4, is greater than permitted
+[20:07:55] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[20:08:02] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[20:08:25] Explicit valence for atom # 5 N, 4, is greater than permitted
+[20:08:28] Can't kekulize mol.  Unkekulized atoms: 2 3 4 7 8
+[20:08:30] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:08:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:08:36] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:08:38] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:08:38] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[20:08:45] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:08:46] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[20:08:50] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:08:52] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:08:55] Explicit valence for atom # 6 N, 4, is greater than permitted
+[20:09:02] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:09:11] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:09:16] Explicit valence for atom # 5 N, 4, is greater than permitted
+[20:09:18] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:09:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:09:21] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:09:27] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:09:39] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 7
+[20:09:41] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 7
+[20:09:41] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:09:45] Can't kekulize mol.  Unkekulized atoms: 4 5 6 7 8
+[20:09:45] Can't kekulize mol.  Unkekulized atoms: 1 2 4 7 8
+[20:09:45] Can't kekulize mol.  Unkekulized atoms: 2 7 8
+[20:09:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:10:17] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:10:29] Can't kekulize mol.  Unkekulized atoms: 1 2 3 6 7
+[20:10:35] Can't kekulize mol.  Unkekulized atoms: 2 3 4
+[20:10:39] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:10:47] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:10:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:10:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:11:02] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:11:07] Can't kekulize mol.  Unkekulized atoms: 1 2 3 5 6
+[20:11:08] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:11:12] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:11:12] Can't kekulize mol.  Unkekulized atoms: 2 4 5 6 8
+[20:11:15] Explicit valence for atom # 5 N, 4, is greater than permitted
+[20:11:16] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:11:34] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:11:35] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:11:38] Explicit valence for atom # 3 N, 4, is greater than permitted
+[20:11:49] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[20:11:56] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:11:57] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[20:11:59] Can't kekulize mol.  Unkekulized atoms: 1 2 4 6 7
+[20:12:05] Explicit valence for atom # 6 N, 4, is greater than permitted
+[20:12:15] Can't kekulize mol.  Unkekulized atoms: 2 4 5 7 8
+[20:12:21] Can't kekulize mol.  Unkekulized atoms: 1 2 5 6 7
+[20:12:22] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[20:12:24] Explicit valence for atom # 6 N, 4, is greater than permitted
+[20:12:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:12:39] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 6
+[20:12:40] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:12:51] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:13:07] Can't kekulize mol.  Unkekulized atoms: 1 2 3 7 8
+[20:13:08] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+[20:13:10] Explicit valence for atom # 7 N, 4, is greater than permitted
+[20:13:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:13:42] Explicit valence for atom # 1 N, 4, is greater than permitted
+[20:13:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[20:13:44] Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 7
+[20:13:47] Can't kekulize mol.  Unkekulized atoms: 3 4 5 7 8
+[20:14:02] Explicit valence for atom # 2 N, 4, is greater than permitted
+[20:14:05] Explicit valence for atom # 7 N, 4, is greater than permitted

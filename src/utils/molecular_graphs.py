@@ -16,12 +16,12 @@ atom_categories = {
         'CHI_SQUAREPLANAR',
         'CHI_TRIGONALBIPYRAMIDAL',
         'CHI_OCTAHEDRAL',
-    ],
+    ], 
     'hybridization': [
-        'UNSPECIFIED',
-        'S',
-        'SP',
-        'SP2',
+        'UNSPECIFIED', 
+        'S', 
+        'SP', 
+        'SP2', 
         'SP3',
         'SP3D',
         'SP3D2',
@@ -39,7 +39,6 @@ def get_numerical_features(atom):
         atom.GetTotalNumHs(), 
         atom.GetNumRadicalElectrons(), 
     ]
-
     
 def get_categorical_features(atom):
     return [
@@ -62,11 +61,13 @@ def smiles_to_graphs(smiles, device='cpu'):
         # Featurize Nodes
         numerical_nodes = torch.tensor([
             get_numerical_features(atom) for atom in mol.GetAtoms()
+            if atom.GetSymbol() != "H"
         ])
         batch_nodes_numerical.append(numerical_nodes)
         
         categorical_nodes = torch.tensor([
             get_categorical_features(atom) for atom in mol.GetAtoms()
+            if atom.GetSymbol() != "H"
         ]) + 1
         batch_nodes_categorical.append(categorical_nodes)
         
@@ -82,6 +83,7 @@ def smiles_to_graphs(smiles, device='cpu'):
         batch_edges.append(edges)
 
     # Max no. of tokens
+    
     n_tokens = max(len(mol) for mol in batch_nodes_categorical)
 
     batch_nodes_numerical = pad_sequence(
@@ -107,3 +109,4 @@ def smiles_to_graphs(smiles, device='cpu'):
     ]).to(device)
 
     return batch_nodes_numerical, batch_nodes_categorical, batch_edges, batch_padding
+
